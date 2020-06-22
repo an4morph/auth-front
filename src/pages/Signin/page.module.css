@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  margin-top: 40px;
+}
+
+.wrapper input, .wrapper button {
+  width: 100%;
+  padding: 7px 15px;
+  font-size: 24px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}

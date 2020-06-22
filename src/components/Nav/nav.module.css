@@ -1,0 +1,15 @@
+.link {
+  font-size: 20px;
+  color: #000;
+}
+
+.wrapper {
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.active {
+  color: blueviolet;
+}
